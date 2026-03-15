@@ -1,14 +1,18 @@
 ## 2024-1779 Practica 8 (Electiva 2)
 
-Capturas de prueba
+### Capturas de prueba
 
 ![Imagen](images/C1.png)
+
 ---------------------------
 ![Imagen](images/C2.png)
+
 --------------------------
 ![Imagen](images/C4.png)
+
 --------------------------
 ![Imagen](images/C3.png)
+
 --------------------------------------
 
 # ESTADO: Done 
